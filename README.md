@@ -1,2 +1,1 @@
-# Portfolio-
-A simple responsive portfolio using NextJs and Bootstrap
+# Discovering_NextJS
