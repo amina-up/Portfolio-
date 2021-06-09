@@ -1,1 +1,1 @@
-# Discovering_NextJS
+# Create my portfolio using NextJs 
