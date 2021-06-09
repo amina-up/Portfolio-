@@ -65,11 +65,13 @@
 }
 .newestOne {
   margin-top: 20px;
-  background-color: #f7f7f7;
+ 
   padding: 10px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-wrap:wrap;
+  margin-top: 20px;
 }
 .coming {
   border-left: 6px solid #858585;

@@ -17,7 +17,7 @@ export default function TrainingSkills() {
         </h1>
       
         <div className={styles.newestOne}>
-          <div className="row container d-flex align-items-center">
+          <div className="row container d-flex align-items-center mb-5 bg-light">
             <div className="col-md-3 text-center">
               <Image
                 src="/gomycode.png"
@@ -41,6 +41,33 @@ export default function TrainingSkills() {
               <p className="text-justify">
                 <strong>Description :</strong> FULL-TIME WEB DEVELOPEMENT
 BOOTCAMP BASED ON AN ACTIVE PEDAGOGY
+              </p>
+             
+            </div>
+          </div>
+          <div className="row container d-flex align-items-center bg-light">
+            <div className="col-md-3 text-center">
+              <Image
+                src="/freecodecamp.jpg"
+                layout="responsive"
+                height={250}
+                width={300}
+              />
+            </div>
+            <div className="col-md-9 mt-4">
+              <p>
+                <strong>School :</strong> FreeCodeCamp
+              </p>
+              <p>
+            
+
+                <strong>Certification :</strong>  JavaScript Algorithms and Data Structures
+              </p>
+              <p>
+                <strong>Periode:</strong> Juin - 2021
+              </p>
+              <p className="text-justify">
+                <strong>Description :</strong> representing approximately 300 hours of coursework
               </p>
              
             </div>
